@@ -15,7 +15,6 @@
       <p> this is my information </p>
       <ul>
         <li> after army</li>
-        <li> undergraduate</li>
         <li> 25 years old</li>
         <li> so hard.. </li>
    </body>
