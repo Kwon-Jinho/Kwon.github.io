@@ -8,7 +8,6 @@
     <title>About Me</title>
   </head>
   <hr>
-  </html>
   <body>
       welcome my first website! <br>
       I'm Incheon University student, and my major is information and coummunication.
@@ -17,5 +16,6 @@
         <li> after army</li>
         <li> 25 years old</li>
         <li> so hard.. </li>
+      </ul>
    </body>
 </html>.
