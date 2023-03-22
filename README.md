@@ -15,10 +15,8 @@
       <p> this is my information </p>
       <ul>
         <li> after army</li>
-        <li> undergraduate in ISISRL </li>
+        <li> undergraduate</li>
         <li> 25 years old</li>
-        <li> with girl friend </li>
-        <li> just want go home.. </li>
-    <!-- Remove the above line and add the content of your web page here -->
-  </body>
+        <li> so hard.. </li>
+   </body>
 </html>.
