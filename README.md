@@ -1,4 +1,5 @@
 # Kwon.github.io
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 <!DOCTYPE html>
 <html>
   <head>
